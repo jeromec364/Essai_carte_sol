@@ -1,0 +1,1 @@
+var json_SitecompesatoireSuizyleFranc_10 = {"type":"FeatureCollection","name":"SitecompesatoireSuizyleFranc_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null},"geometry":{"type":"Point","coordinates":[3.737305978112317,48.954910747126554]}}]}
